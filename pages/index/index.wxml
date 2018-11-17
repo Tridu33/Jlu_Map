@@ -1,0 +1,29 @@
+<!--index.wxml-->
+<view class="container">
+  <view  bindtap="bindViewTap" class="userinfo">
+    <image class="userinfo-avatar" src="{{appInfo.logoUrl}}" background-size="cover"></image>
+    <text class="userinfo-nickname">{{appInfo.title}}</text>
+              </view>
+              <image src='../../image/jlu_index.gif'></image>
+              <view >
+    <text class="user-motto"  decode="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小程序{{motto}}计划实现：\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;吉林大学前卫南区地标介绍，地图导览，最短路径规划，校内咨询通知等功能。</text>
+  </view>
+
+  <view>
+    <text style='display: inline;color: blue;'>地标性建筑介绍</text>
+    <view class='spots'>
+      <image class='spots-image' src='{{jlu_places.imagePath}}'></image>
+      <view class='spots-details'>
+        <text>{{jlu_places.name}}</text>
+        <text>点评：{{jlu_places.comment}}</text>
+      </view>
+
+    </view>
+       <text  decode="{{true}}">加上小伙伴们写的介绍页面。。。。。。\n</text>
+      <navigator style='display: inline;color: green;' url='/pages/news/news' open-type='switchtab'  decode="{{true}}">地图导览\n</navigator>
+      <navigator style='display: inline;color: green;' url='/pages/flody/flody'  decode="{{true}}">景点最短路\n</navigator>
+      <navigator style='display: inline;color: green;' url='/pages/news/news' open-type='switchtab'  decode="{{true}}">校内咨询</navigator>
+    
+    </view>
+
+</view>

@@ -1,0 +1,13 @@
+index0不能navigator进入index,想实现先进入index0再进入index
+,"pages/index0/index0",
+
+行内navigator不能用，明明跟视频里面一模一样
+
+首页背景图片不会弄background-bg
+
+navigation中opentype='switchtab'点击无效？地图导览?校内咨询通知?点不了？
+
+
+
+
+“地图导览		景点最短路	校内咨询通知”   放在底部不会弄

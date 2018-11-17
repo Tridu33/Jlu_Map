@@ -1,0 +1,51 @@
+{
+  "pages":[
+    
+    "pages/index/index",
+    "pages/map/map",
+    "pages/location/location",
+    "pages/news/news",
+    "pages/rixinlou/rixinlou",
+    "pages/flody/flody",
+    "pages/logs/logs"
+  ],
+    "tabBar": {
+      "color": "#dddddd",
+      "selectedColor": "#3cc51f",
+      "borderStyle": "black",
+      "backgroundColor": "#ffffff",
+      "list": [
+        {
+          "pagePath": "pages/index/index",
+          "iconPath": "image/wechat.png",
+          "selectedIconPath": "image/wechatHL.png",
+          "text": "地标介绍"
+        },
+        {
+          "pagePath": "pages/map/map",
+          "iconPath": "image/map.png",
+          "selectedIconPath": "image/map_active.png",
+          "text": "地图"
+        },
+        {
+          "pagePath": "pages/location/location",
+          "iconPath": "image/locate.png",
+          "selectedIconPath": "image/locateHL.png",
+          "text": "导航"
+        },
+        {
+          "pagePath": "pages/news/news",
+          "iconPath": "image/wechat.png",
+          "selectedIconPath": "image/wechat.png",
+          "text": "咨询等"
+        }
+      ]
+    },
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "Jlu_Map",
+    "navigationBarTextStyle":"black"
+  },
+  "debug":true
+}
