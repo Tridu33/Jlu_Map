@@ -1,11 +1,13 @@
 {
   "pages":[
-    
     "pages/index/index",
     "pages/map/map",
     "pages/location/location",
     "pages/news/news",
+    "pages/sanjiao/sanjiao",
+    "pages/yifulou/yifulou",
     "pages/rixinlou/rixinlou",
+    "pages/dingxintushuguan/dingxintushuguan",
     "pages/flody/flody",
     "pages/logs/logs"
   ],
