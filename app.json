@@ -1,5 +1,6 @@
 {
   "pages":[
+    
     "pages/index/index",
     "pages/map/map",
     "pages/location/location",
@@ -7,6 +8,8 @@
     "pages/sanjiao/sanjiao",
     "pages/yifulou/yifulou",
     "pages/rixinlou/rixinlou",
+    "pages/qinghu/qinghu",
+    "pages/wuyuehua/wuyuehua",
     "pages/dingxintushuguan/dingxintushuguan",
     "pages/flody/flody",
     "pages/logs/logs"
@@ -39,7 +42,7 @@
           "pagePath": "pages/news/news",
           "iconPath": "image/wechat.png",
           "selectedIconPath": "image/wechat.png",
-          "text": "咨询等"
+          "text": "校内景点"
         }
       ]
     },

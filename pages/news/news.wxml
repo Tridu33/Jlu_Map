@@ -1,1 +1,59 @@
-<text>Jlu_news</text>
+<!--index.wxml-->
+<view class="container">
+<image mode='center' src='../../image/jlu2.jpg'></image>
+  <view>
+    <text style='display: inline;color: blue;'>地标性建筑介绍</text>
+
+        <view class='spots'>
+          <image class='spots-image' src='{{jlu_places.imagePath}}'></image>
+              <view class='spots-details'>
+                <navigator style='display: inline;color: green;' url='/pages/rixinlou/rixinlou'  decode="{{true}}">{{jlu_places.name}}\n</navigator>
+                <text>点评：{{jlu_places.comment}}</text>
+              </view>
+        </view>
+
+        <view class='spots'>
+          <image class='spots-image' src='../../image/qinghu2.jpg'></image>
+              <view class='spots-details'>
+                <navigator style='display: inline;color: green;' url='/pages/qinghu/qinghu'  decode="{{true}}">清湖\n</navigator>
+                <text>点评：欲把清湖比西湖</text>
+              </view>
+        </view>
+
+        <view class='spots'>
+          <image class='spots-image' src='../../image/五月花.jpg'></image>
+              <view class='spots-details'>
+                <navigator style='display: inline;color: green;' url='/pages/wuyuehua/wuyuehua'  decode="{{true}}">五月花广场\n</navigator>
+                <text>点评：广场桃花五月开</text>
+              </view>
+        </view>
+
+        <view class='spots'>
+          <image class='spots-image' src='/image/SanJiao.jpg'></image>
+              <view class='spots-details'>
+                <navigator style='display: inline;color: green;' url='/pages/sanjiao/sanjiao'  decode="{{true}}">三教\n</navigator>
+                <text>点评：真的很远！</text>
+              </view>
+        </view>
+
+        <view class='spots'>
+          <image class='spots-image' src='/image/YiFu.jpg'></image>
+              <view class='spots-details'>
+                <navigator style='display: inline;color: green;' url='/pages/qinghu/qinghu'  decode="{{true}}">逸夫楼\n</navigator>
+                <text>点评：历史悠久</text>
+              </view>
+        </view>
+
+        <view class='spots'>
+          <image class='spots-image' src='/image/DingXinTuShuGuan.jpg'></image>
+              <view class='spots-details'>
+                <navigator style='display: inline;color: green;' url='/pages/wuyuehua/wuyuehua'  decode="{{true}}">鼎新楼\n</navigator>
+                <text>点评：自习圣地</text>
+              </view>
+        </view>
+
+
+
+  </view>
+</view>
+

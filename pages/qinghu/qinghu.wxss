@@ -1,0 +1,9 @@
+.good-data view>text{
+  margin-top: 2px,
+  font-size:0.8rem;
+  display:block;
+}
+.imageshow{
+display: flex;
+justify-content: center;
+}
