@@ -1,0 +1,17 @@
+<view>
+<text>
+  在大吉大怎么能不学习，接下来让我带你了解自习圣地————鼎新图书馆。
+</text>
+  <image src='/image/DingXinTuShuGuan.jpg'></image>
+  <text>
+    鼎新图书馆是整个南校环境最好的自习区域，得力于先进的设备，图书馆冬暖夏凉。
+  </text>
+  <image src='/image/DingXinCunShu.jpg'></image>
+  <text>
+    南区目前把理工科书籍存放在了鼎新图书馆，而将人文社科类书籍存放在了中心图书馆。我们有足够的纸质资源，更不用说我们还有电子图书馆。
+  </text>
+  <image src='/image/DingXinZiXiShi.jpg'></image>
+  <text>
+    通过微信扫码预约，还可以在鼎新图书馆的讨论间进行课题讨论。友情提示，学工号是一卡通上的号码，遵守规则哦。
+  </text>
+</view>
