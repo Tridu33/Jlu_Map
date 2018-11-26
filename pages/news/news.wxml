@@ -39,7 +39,7 @@
         <view class='spots'>
           <image class='spots-image' src='/image/YiFu.jpg'></image>
               <view class='spots-details'>
-                <navigator style='display: inline;color: green;' url='/pages/qinghu/qinghu'  decode="{{true}}">逸夫楼\n</navigator>
+                <navigator style='display: inline;color: green;' url='/pages/yifulou/yifulou'  decode="{{true}}">逸夫楼\n</navigator>
                 <text>点评：历史悠久</text>
               </view>
         </view>
@@ -47,7 +47,7 @@
         <view class='spots'>
           <image class='spots-image' src='/image/DingXinTuShuGuan.jpg'></image>
               <view class='spots-details'>
-                <navigator style='display: inline;color: green;' url='/pages/wuyuehua/wuyuehua'  decode="{{true}}">鼎新楼\n</navigator>
+                <navigator style='display: inline;color: green;' url='/pages/dingxintushuguan/dingxintushuguan'  decode="{{true}}">鼎新楼\n</navigator>
                 <text>点评：自习圣地</text>
               </view>
         </view>

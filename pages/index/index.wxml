@@ -1,15 +1,27 @@
 <!--index.wxml-->
 <view class="container">
-  <view  bindtap="bindViewTap" class="userinfo">
-    <image class="userinfo-avatar" src="{{appInfo.logoUrl}}" background-size="cover"></image>
-    <text class="userinfo-nickname">{{appInfo.title}}</text>
-              </view>
-              <image src='../../image/jlu_index.gif'></image>
-              <view >
-    <text class="user-motto"  decode="{{true}}">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;小程序{{motto}}计划实现：\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;吉林大学前卫南区地标介绍，地图导览，最短路径规划，校内咨询通知等功能。</text>
-  </view>
+  <view class='header'>
+    <text class='header_title'>吉大导览</text>
+    <image src='../../image/jlu_index.gif'></image>
+    <view class='header_intro'>
+    </view>
 
-  <view>
+  </view>
+  <view class='func'>
+    <view class='item'>
+      <image src='../../image/daolan.png'></image>
+      <navigator style='display: inline;color: green;' url='/pages/daohang/daohang' decode="{{true}}">地图导览\n</navigator>
+    </view>
+    <view class='item'>
+      <image src='../../image/luxian.png'></image>
+      <navigator style='display: inline;color: green;' url='/pages/flody/flody' decode="{{true}}">景点最短路\n</navigator>
+    </view>
+    <view class='item'>
+      <image src='../../image/zixun.png'></image>
+      <text>校园新闻（开发中）</text>
+    </view>
+  </view>
+  <!-- <view>
     <text style='display: inline;color: blue;'>地标性建筑介绍</text>
     <view class='spots'>
       <image class='spots-image' src='{{jlu_places.imagePath}}'></image>
@@ -19,12 +31,11 @@
       </view>
 
     </view>
-       <text  decode="{{true}}">加上小伙伴们写的介绍页面。。。。。。\n</text>
-      <navigator style='display: inline;color: green;' url='/pages/news/news' open-type='switchtab'  decode="{{true}}">地图导览\n</navigator>
-      <navigator style='display: inline;color: green;' url='/pages/flody/flody'  decode="{{true}}">景点最短路\n</navigator>
-      <navigator style='display: inline;color: green;' url='/pages/news/news' open-type='switchtab'  decode="{{true}}">校内咨询</navigator>
-    
-    </view>
+    <text decode="{{true}}">加上小伙伴们写的介绍页面。。。。。。\n</text>
+    <navigator style='display: inline;color: green;' url='/pages/news/news' open-type='switchtab' decode="{{true}}">地图导览\n</navigator>
+    <navigator style='display: inline;color: green;' url='/pages/flody/flody' decode="{{true}}">景点最短路\n</navigator>
+    <navigator style='display: inline;color: green;' url='/pages/news/news' open-type='switchtab' decode="{{true}}">校内咨询</navigator>
+
+  </view> -->
 
 </view>
-

@@ -1,0 +1,24 @@
+<!-- daohang.wxml -->
+<map id="map" longitude="125.2781629119" latitude="43.8233681157" scale="18" markers='{{markers}}' bindmarkertap='markertap'  class="{{isChecked?'maptwo':'mapone'}}">
+</map>
+<!-- 地点的个数 -->
+ <view class='anniu' bindtap='change'>
+  <view>这里总共有4个地点</view>
+  <image src='{{img}}'></image>
+</view> 
+<!-- 地址信息 -->
+ 
+<view style='width=100%;' hidden='{{!isSpread}}'>
+  <scroll-view class='scr' scroll-y="true" style='height:465rpx' scroll-top="{{scrollTop}}">
+    <block wx:for="{{didian}}" wx:key="didian" id="item" > 
+      
+      <view class="item {{item.display?'item2':''}}" data-index="{{index}}">
+        <image style='margin-top:2px' class='imageone' src="{{item.imageo}}"></image>
+        <text>{{item.wenzi}}</text>
+        <image style='margin-top:2px' data-index="{{index}}" bindtap="tiaozhuan" class='imagetwo' src="{{item.image}}"></image>
+      </view>
+      
+    </block>
+  
+  </scroll-view>
+</view>  

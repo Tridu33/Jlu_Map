@@ -1,0 +1,69 @@
+/* danghang.wxss */
+page{
+  height: 100%
+}
+.anniu{
+  background-color: #DCDCDC; 
+  font-size: 14px;
+  color: red;
+  font-weight: lighter;
+  text-align: center;
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+ 
+}
+.anniu image{
+  width: 14px;
+  height: 14px;
+}
+.mapone{
+  width: 100%;
+  height: 1167rpx;
+  
+}
+.maptwo{
+  width:100%;
+  height: 700rpx;
+}
+.item{
+  height: 55px;
+  border-bottom:1px solid #D3D3D3;
+}
+.item2{
+  height: 55px;
+  border-bottom:1px solid #D3D3D3;
+  background-color: #D3D3D3;
+}
+.item text{
+  margin-left: 15px;
+  position: relative;
+  bottom: 28rpx;
+  font-weight: normal;
+  font-size: 16px;
+}
+.imagetwo{
+  position: absolute; 
+  right: 30rpx;
+  top: 14rpx;
+  height: 30px;
+  width: 30px;
+}
+.imageone{
+  margin-left: 15rpx;
+  width: 80px;
+  height: 50px;
+}
+scroll-view{
+  white-space: nowrap;
+}
+.scr{
+  position: relative;
+  height: 100%
+}
+.item{
+  position: relative;
+}
+
+ 
+

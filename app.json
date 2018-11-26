@@ -3,6 +3,7 @@
     
     "pages/index/index",
     "pages/map/map",
+    "pages/daohang/daohang",
     "pages/location/location",
     "pages/news/news",
     "pages/sanjiao/sanjiao",
