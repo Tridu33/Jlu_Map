@@ -1,6 +1,6 @@
 <view>
 <text>中心图书馆，里子面子都有的豪华图书馆。</text>
-<image src='../../image/tushuguan.jpg'></image>
+<image src='http://piuns2n5y.bkt.clouddn.com/tushuguan.jpg'></image>
 <text>\n位于东荣大厦和计算机楼附近，前面不远就是五月花广场。</text>
 <text  decode="{{true}}">
 外部建筑风格独特，采用透明玻璃做外部墙壁。\n

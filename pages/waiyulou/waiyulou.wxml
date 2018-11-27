@@ -1,6 +1,6 @@
 <view>
 <text>吉大门面，牛奶肌肤外语楼</text>
-<image src='../../image/waiyulou.jpg'></image>
+<image src='http://piuns2n5y.bkt.clouddn.com/waiyulou.jpg'></image>
 <text>\n外语楼位于北门附近，是外国语学院的所在地。</text>
 <text  decode="{{true}}">
 吉林大学中心校区最漂亮的楼之一。\n

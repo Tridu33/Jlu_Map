@@ -1,8 +1,9 @@
 <!--index.wxml-->
+<!--这里图片有三张没给我,不能设计外链-->
 <view class="container">
   <view class='header'>
     <text class='header_title'>吉大导览</text>
-    <image src='../../image/jlu_index.gif'></image>
+    <image src='http://piuns2n5y.bkt.clouddn.com/jlu_index.gif'></image>
     <view class='header_intro'>
     </view>
 

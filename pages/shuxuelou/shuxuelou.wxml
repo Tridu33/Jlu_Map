@@ -1,5 +1,5 @@
 <view>
-  <image mode='center' src='../../image/数学楼.jpg'></image>
+  <image mode='center' src='http://piuns2n5y.bkt.clouddn.com/%E6%95%B0%E5%AD%A6%E6%A5%BC.jpg'></image>
   <text>
   \n数学楼是吉林大学数学学院所在的地方，也是吉林大学国家天元数学东北中心所在地。  </text>
   <text decode="{{true}}">

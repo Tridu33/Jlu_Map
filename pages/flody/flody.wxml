@@ -1,6 +1,6 @@
 <navigator style='display: inline;color: green;' url='/pages/zuiduanlu/zuiduanlu' decode="{{true}}">任意两点间最短路演示\n</navigator>
 <text>\n算法原理讲解</text>
-<image src='/image/222.png'></image>
+<image src='http://piuns2n5y.bkt.clouddn.com/222.png'></image>
 <text>\n吉林大学南岭校区校区地图最短路径实现，通过Flody等最短路算法实现，对数据进行计算，实现校内路径最短路巡航过程的最短路优化，实现路径最短路选择。\n
 计划步骤：\n
 0	计算机图像识别，图像处理，卫星地图图像处理得到每个路口节点的坐标，自动通过卫星扫描地图实现图论模型的建立，选择地点的时候，则通过算法判断输入地点和道路交点的路径的最短距离右向车道行驶的情况下，哪个节点距离比较近就用哪个。
@@ -10,16 +10,16 @@
 <text>吉林大学南岭校区的图形分布，和某校区的路线，根据不同地区的学生活动区域，就近分组，对地图进行适当的简化，分组情况如下：
 1，2，3公寓；4+11公寓；3餐厅+9公寓；4餐厅+8公寓；13公寓；5餐+7公寓+保卫办+快递站+交通楼；5，6公寓+1餐；大虾；图书馆；二教；致远超市；一教；三教前路口；逸夫楼+管理学院；路口1；路口2；体育馆；篮球场入口；体育入口；东门；西门；南门；北门；能源动力大楼+工训中心+工厂；工程小院；路口三+交通楼；计算机中心
 \n</text>
-<image src='/image/2223.png'></image>
+<image src='http://piuns2n5y.bkt.clouddn.com/2223.png'></image>
 <text>首先，搜集资料，得到某校区的卫星地图的绿化地图，利用计算机软件Matlab等对原图像进行图像处理，如图1-1所示，分组完毕，得到真正的交通路线，就近选择交通路口作为节点，链接重要交通地形的节点。\n
 以上图为例子，本文可以根据原图像得到初步的地图分布，结合相关数据，不难得到某校区地形的基本路线图。\n
 根据基本路线图，可以建立图论相关简化模型，然后
 1.1	建立校园地理特征的图论模型
 针对最常见的学生活动路线进行分析，把最关键的交通路口作为结点，建立关键的工作节点，链接不同的节点，根据校区内复杂的交通路网，对真实问题中复杂的交通路网进行数学语言的简化描述，根据百度地图测量节点之间的实际距离，以米为单位标注为图中节点之间的权重，可以得到加权无向图,计算出最短路矩阵，如下所示：
 </text>
-<image src='/image/D.png'></image>
+<image src='http://piuns2n5y.bkt.clouddn.com/D.png'></image>
 <text>\nD矩阵</text>
-<image src='/image/Path.png'></image>
+<image src='http://piuns2n5y.bkt.clouddn.com/Path.png'></image>
 <text>\nPath矩阵</text>
 <text>根据上述矩阵，我们很容易得到任意两点之间的最短距离和对应的路径。
 
@@ -67,7 +67,7 @@ Floyd算法就更有推广价值了，只要以此计算得到D矩阵和Path矩�
 </text>
 
 <text>南区导航</text>
-<image src='/image/nanquditu.png'></image>
+<image src='http://piuns2n5y.bkt.clouddn.com/nanquditu.png'></image>
 <text>\n教学楼：
 经信楼（138）、李四光楼（146）、李四光实验楼（144）、逸夫楼（60）、翠文楼（68）、第三教学楼（29）。
 学院楼：

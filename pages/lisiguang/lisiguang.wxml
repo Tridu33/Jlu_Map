@@ -1,6 +1,6 @@
 <view>
 <text>坐落于校园西北角，一侧为实验楼，一侧为教学楼。</text>
-<image src='../../image/lisiguang.jpg'></image>
+<image src='http://piuns2n5y.bkt.clouddn.com/lisiguang.jpg'></image>
 <text>因为建成的时间不长，所以各个方面都比较新。</text>
 
 <text  decode="{{true}}">

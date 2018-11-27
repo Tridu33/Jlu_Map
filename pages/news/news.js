@@ -6,13 +6,13 @@ Page({
     motto: '吉大导览',
     userInfo: {},
     appInfo: {
-      logoUrl: '../../image/jlu.jpg',
+      logoUrl: 'http://piuns2n5y.bkt.clouddn.com/jlu.jpg',
       title: '吉大导览'
     },
     jlu_places: {
       name: "日新楼",
       comment: "堕落的奢靡楼。",
-      imagePath: "/image/rixinloulouceng.jpg"
+      imagePath: "http://piuns2n5y.bkt.clouddn.com/rixinloulouceng.jpg"
     }
   },
   //事件处理函数

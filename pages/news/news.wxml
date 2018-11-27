@@ -1,6 +1,6 @@
 <!--index.wxml-->
 <view class="container">
-<image mode='center' src='../../image/jlu2.jpg'></image>
+<image mode='center' src='http://piuns2n5y.bkt.clouddn.com/jlu2.jpg'></image>
   <view>
     <text style='display: inline;color: blue;'>地标性建筑介绍</text>
 
@@ -13,7 +13,7 @@
         </view>
 
         <view class='spots'>
-          <image class='spots-image' src='../../image/qinghu2.jpg'></image>
+          <image class='spots-image' src='http://piuns2n5y.bkt.clouddn.com/qinghu2.jpg'></image>
               <view class='spots-details'>
                 <navigator style='display: inline;color: green;' url='/pages/qinghu/qinghu'  decode="{{true}}">清湖\n</navigator>
                 <text>点评：欲把清湖比西湖</text>
@@ -21,7 +21,7 @@
         </view>
 
         <view class='spots'>
-          <image class='spots-image' src='../../image/五月花.jpg'></image>
+          <image class='spots-image' src='http://piuns2n5y.bkt.clouddn.com/%E4%BA%94%E6%9C%88%E8%8A%B1.jpg'></image>
               <view class='spots-details'>
                 <navigator style='display: inline;color: green;' url='/pages/wuyuehua/wuyuehua'  decode="{{true}}">五月花广场\n</navigator>
                 <text>点评：广场桃花五月开</text>
@@ -29,7 +29,7 @@
         </view>
 
         <view class='spots'>
-          <image class='spots-image' src='/image/SanJiao.jpg'></image>
+          <image class='spots-image' src='http://piuns2n5y.bkt.clouddn.com/SanJiao.jpg'></image>
               <view class='spots-details'>
                 <navigator style='display: inline;color: green;' url='/pages/sanjiao/sanjiao'  decode="{{true}}">三教\n</navigator>
                 <text>点评：真的很远！</text>
@@ -37,7 +37,7 @@
         </view>
 
         <view class='spots'>
-          <image class='spots-image' src='/image/YiFu.jpg'></image>
+          <image class='spots-image' src='http://piuns2n5y.bkt.clouddn.com/YiFu.jpg'></image>
               <view class='spots-details'>
                 <navigator style='display: inline;color: green;' url='/pages/yifulou/yifulou'  decode="{{true}}">逸夫楼\n</navigator>
                 <text>点评：历史悠久</text>
@@ -45,7 +45,7 @@
         </view>
 
         <view class='spots'>
-          <image class='spots-image' src='/image/DingXinTuShuGuan.jpg'></image>
+          <image class='spots-image' src='http://piuns2n5y.bkt.clouddn.com/DingXinTuShuGuan.jpg'></image>
               <view class='spots-details'>
                 <navigator style='display: inline;color: green;' url='/pages/dingxintushuguan/dingxintushuguan'  decode="{{true}}">鼎新楼\n</navigator>
                 <text>点评：自习圣地</text>
@@ -53,7 +53,7 @@
         </view>
 
         <view class='spots'>
-          <image class='spots-image' src='/image/tushuguan.jpg'></image>
+          <image class='spots-image' src='http://piuns2n5y.bkt.clouddn.com/tushuguan.jpg'></image>
               <view class='spots-details'>
                 <navigator style='display: inline;color: green;' url='/pages/zhongxinguan/zhongxinguan'  decode="{{true}}">中心馆\n</navigator>
                 <text>点评：中心图书馆--文科书籍！</text>
@@ -61,7 +61,7 @@
         </view>
 
         <view class='spots'>
-          <image class='spots-image' src='/image/lisiguang.jpg'></image>
+          <image class='spots-image' src='http://piuns2n5y.bkt.clouddn.com/lisiguang.jpg'></image>
               <view class='spots-details'>
                 <navigator style='display: inline;color: green;' url='/pages/lisiguang/lisiguang'  decode="{{true}}">李四光楼\n</navigator>
                 <text>点评：自习上课的好去处</text>
@@ -69,7 +69,7 @@
         </view>
 
         <view class='spots'>
-          <image class='spots-image' src='/image/waiyulou.jpg'></image>
+          <image class='spots-image' src='http://piuns2n5y.bkt.clouddn.com/waiyulou.jpg'></image>
               <view class='spots-details'>
                 <navigator style='display: inline;color: green;' url='/pages/waiyulou/waiyulou'  decode="{{true}}">外语楼\n</navigator>
                 <text>点评：中心校区最漂亮的楼之一。</text>
@@ -77,7 +77,7 @@
         </view>
 
         <view class='spots'>
-          <image class='spots-image' src='/image/唐敖庆楼.jpg'></image>
+          <image class='spots-image' src='http://piuns2n5y.bkt.clouddn.com/%E5%94%90%E6%95%96%E5%BA%86%E6%A5%BC.jpg'></image>
               <view class='spots-details'>
                 <navigator style='display: inline;color: green;' url='/pages/tangaoqinglou/tangaoqinglou'  decode="{{true}}">唐敖庆楼\n</navigator>
                 <text>点评：新理化楼=化学+生命科学+电子科学与工程学院</text>
@@ -85,7 +85,7 @@
         </view>
 
         <view class='spots'>
-          <image class='spots-image' src='/image/计算机软件楼.jpg'></image>
+          <image class='spots-image' src='http://piuns2n5y.bkt.clouddn.com/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BD%AF%E4%BB%B6%E6%A5%BC.jpg'></image>
               <view class='spots-details'>
                 <navigator style='display: inline;color: green;' url='/pages/jisuanjiruanjianlou/jisuanjiruanjianlou'  decode="{{true}}">计算机楼\n</navigator>
                 <text>点评：计算机学院和软件学院</text>
@@ -93,7 +93,7 @@
         </view>
 
         <view class='spots'>
-          <image class='spots-image' src='../../image/数学楼.jpg'></image>
+          <image class='spots-image' src='http://piuns2n5y.bkt.clouddn.com/%E6%95%B0%E5%AD%A6%E6%A5%BC.jpg'></image>
               <view class='spots-details'>
                 <navigator style='display: inline;color: green;' url='/pages/shuxuelou/shuxuelou'  decode="{{true}}">数学楼\n</navigator>
                 <text>点评：数学学院+国家天元数学东北中心</text>
@@ -102,7 +102,7 @@
         
 
         <view class='spots'>
-          <image class='spots-image' src='../../image/main_pic.jpg'></image>
+          <image class='spots-image' src='http://piuns2n5y.bkt.clouddn.com/main_pic.jpg'></image>
               <view class='spots-details'>
                 <navigator style='display: inline;color: green;' url='../../pages/north1/north1'  decode="{{true}}">北苑公寓\n</navigator>
                 <text>点评：北苑一公寓</text>

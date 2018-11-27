@@ -1,5 +1,5 @@
 <view class='main'>
-<view class='pic_view'><image class='main_pic' src='/image/main_pic.jpg'></image></view>
+<view class='pic_view'><image class='main_pic' src='http://piuns2n5y.bkt.clouddn.com/main_pic.jpg'></image></view>
 <view class='info'>
 <text class='north_info'>
 北苑公寓，南校最豪华公寓。
