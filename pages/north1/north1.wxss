@@ -1,0 +1,34 @@
+.main{
+  flex-direction:column; 
+}
+
+.pic_view{
+  margin-top: 25px;
+  display:flex; 
+  justify-content:center;
+  overflow: hidden;
+}
+
+.main_pic{
+  border:2px solid gray;
+  display: flex;
+  width:90%;
+}
+
+.info{
+  display:flex; 
+  justify-content:center;
+  font-size:18px;
+  flex-direction:column; 
+  padding: 0 15px;
+}
+
+.north_info{
+  text-align: center;
+}
+
+.north1_info{
+  text-indent: 20rpx;
+  font-size: 15px;
+  color: #666;
+}

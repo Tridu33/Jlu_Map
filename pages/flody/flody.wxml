@@ -1,4 +1,4 @@
-<navigator style='display: inline;color: green;' url='/pages/zuiduanlu/zuiduanlu' decode="{{true}}">任意两点间最短路演示(开发中）\n</navigator>
+<navigator style='display: inline;color: green;' url='/pages/zuiduanlu/zuiduanlu' decode="{{true}}">任意两点间最短路演示\n</navigator>
 <text>\n算法原理讲解</text>
 <image src='/image/222.png'></image>
 <text>\n吉林大学南岭校区校区地图最短路径实现，通过Flody等最短路算法实现，对数据进行计算，实现校内路径最短路巡航过程的最短路优化，实现路径最短路选择。\n

@@ -1,0 +1,13 @@
+<view>
+<text>坐落于校园西北角，一侧为实验楼，一侧为教学楼。</text>
+<image src='../../image/lisiguang.jpg'></image>
+<text>因为建成的时间不长，所以各个方面都比较新。</text>
+
+<text  decode="{{true}}">
+环境舒适，设备齐全，是自习上课的好去处。\n
+李四光教学楼常有外国留学生出没。\n
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;外形中规中矩。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一楼有休息用的沙发和两个自动售货机。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;也有很多可供办活动的大教室。
+</text>
+</view>

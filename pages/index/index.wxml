@@ -18,7 +18,7 @@
     </view>
     <view class='item'>
       <image src='../../image/zixun.png'></image>
-      <text>校园新闻（开发中）</text>
+      <text>校园新闻</text>
     </view>
   </view>
   <!-- <view>

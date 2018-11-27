@@ -1,0 +1,14 @@
+<view>
+<text>中心图书馆，里子面子都有的豪华图书馆。</text>
+<image src='../../image/tushuguan.jpg'></image>
+<text>\n位于东荣大厦和计算机楼附近，前面不远就是五月花广场。</text>
+<text  decode="{{true}}">
+外部建筑风格独特，采用透明玻璃做外部墙壁。\n
+内部硬件齐全，藏书丰富。\n
+在整个东北也是数一数二的图书馆。\n
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;一楼可以通宵上自习，有自习用的舒适座椅，有休息用的长椅，还有一家致远咖啡。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中心馆的内部宽敞通透。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;二楼开始就是各种藏书，比较高的楼层还有古籍孤本。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中心图书馆的藏书以文科书籍为主。
+</text>
+</view>

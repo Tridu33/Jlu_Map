@@ -1,0 +1,13 @@
+<view class='main'>
+<view class='pic_view'><image class='main_pic' src='/image/main_pic.jpg'></image></view>
+<view class='info'>
+<text class='north_info'>
+北苑公寓，南校最豪华公寓。
+</text>
+<text class='north1_info'>
+身为北苑公寓中的一员，北苑一公寓环境优美，位置绝佳。南有体育场等各种运动场所，北有基础圆食堂、池浴，西有最舒服教学楼李四光，东有小北门，西北有吉大政务中心——鼎新楼以及鼎新图书馆。
+\n
+同样，北苑一公寓人文丰富，同学们各种需求全都可以满足，打印、夜宵等应有尽有————
+</text>
+</view>
+</view>

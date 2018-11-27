@@ -1,0 +1,12 @@
+<view>
+<text>吉大门面，牛奶肌肤外语楼</text>
+<image src='../../image/waiyulou.jpg'></image>
+<text>\n外语楼位于北门附近，是外国语学院的所在地。</text>
+<text  decode="{{true}}">
+吉林大学中心校区最漂亮的楼之一。\n
+吉大南校的标志性建筑之一。\n
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;具有浓厚的北欧俄罗斯风格，是拍照的必选地点。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;外语楼的主体外形呈白色，而且是牛奶那种白。
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;落日余晖下的外语楼有一种独特的美。
+</text>
+</view>
